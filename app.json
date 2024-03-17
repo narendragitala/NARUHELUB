@@ -1,7 +1,7 @@
 {
     "name": "The HellBot",
     "description": "🚀 Telegram Bot on steroids! Packed with the latest commands, limitless features, etc. Unleash the ultimate power of customization and automation like never before!",
-    "logo": "https://te.legra.ph/file/31c5a08f0941b8fbb3f66.png",
+    "logo": "https://telegra.ph/file/84870d6d89b893e59c5f0.jpg",
     "keywords": [
         "telegram",
         "userbot",
@@ -9,7 +9,7 @@
         "pyrogram",
         "hellbot"
     ],
-    "repository": "https://github.com/The-HellBot/HellBot/",
+    "repository": "https://github.com/narendragitala/NARUHELUB/",
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
