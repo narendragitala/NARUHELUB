@@ -1,5 +1,5 @@
 {
-    "name": "The HellBot",
+    "name": "NARUHEL UB",
     "description": "🚀 Telegram Bot on steroids! Packed with the latest commands, limitless features, etc. Unleash the ultimate power of customization and automation like never before!",
     "logo": "https://telegra.ph/file/84870d6d89b893e59c5f0.jpg",
     "keywords": [
@@ -61,7 +61,7 @@
     },
     "buildpacks": [
         {
-            "url": "https://github.com/HellBoy-OP/heroku-buildpack-ffmpeg-latest"
+            "url": "https://github.com/narendragitala/heroku-buildpack-ffmpeg-latest"
         },
         {
             "url": "https://github.com/heroku/heroku-buildpack-google-chrome"
